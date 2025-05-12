@@ -1,9 +1,9 @@
 package practice5;
 
 public abstract class Vehicle {
-    private boolean isReady = false;
-    private boolean isGetOn = false;
-    private boolean isMoving = false;
+    private boolean isReady;
+    private boolean isGetOn;
+    private boolean isMoving;
 
     public abstract void ready();
 
