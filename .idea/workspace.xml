@@ -54,6 +54,19 @@
       <recent name="C:\Users\jiwon\Desktop\java_til" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="java_til" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="java_til" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -75,7 +88,8 @@
       <workItem from="1747009659288" duration="3798000" />
       <workItem from="1747019404667" duration="9499000" />
       <workItem from="1747095338591" duration="2000" />
-      <workItem from="1747105646557" duration="5572000" />
+      <workItem from="1747105646557" duration="6249000" />
+      <workItem from="1747274773098" duration="5684000" />
     </task>
     <servers />
   </component>
