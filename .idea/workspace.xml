@@ -61,11 +61,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="java_til" />
-      <option name="filePath" />
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -89,7 +84,8 @@
       <workItem from="1747019404667" duration="9499000" />
       <workItem from="1747095338591" duration="2000" />
       <workItem from="1747105646557" duration="6249000" />
-      <workItem from="1747274773098" duration="5684000" />
+      <workItem from="1747274773098" duration="6422000" />
+      <workItem from="1747378080690" duration="794000" />
     </task>
     <servers />
   </component>
