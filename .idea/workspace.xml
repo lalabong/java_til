@@ -14,6 +14,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lalabong&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lalabong/java_til.git&quot;,
+    &quot;accountId&quot;: &quot;cf853d94-8c39-4382-aab7-3ee2f389c3d4&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -53,19 +65,6 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jiwon\Desktop\java_til" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="java_til" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="java_til" />
-      <option name="filePath" />
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -110,6 +109,18 @@
       <workItem from="1749002164440" duration="7120000" />
       <workItem from="1749082868711" duration="7840000" />
       <workItem from="1749435751383" duration="6913000" />
+      <workItem from="1749465765812" duration="2258000" />
+      <workItem from="1749518031596" duration="7240000" />
+      <workItem from="1749601583727" duration="113000" />
+      <workItem from="1749610817539" duration="2891000" />
+      <workItem from="1749688396124" duration="5405000" />
+      <workItem from="1749778625147" duration="4391000" />
+      <workItem from="1749802402752" duration="2242000" />
+      <workItem from="1750046210386" duration="962000" />
+      <workItem from="1750123342735" duration="1552000" />
+      <workItem from="1750206178995" duration="5050000" />
+      <workItem from="1750292614281" duration="4931000" />
+      <workItem from="1750332897518" duration="991000" />
     </task>
     <servers />
   </component>
