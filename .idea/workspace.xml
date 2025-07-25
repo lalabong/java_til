@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38bfd527-e716-4c79-9ff3-6587179c885e" name="새 변경 목록" comment="" />
+    <list default="true" id="38bfd527-e716-4c79-9ff3-6587179c885e" name="새 변경 목록" comment="">
+      <change afterPath="$PROJECT_DIR$/20250714.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20250715.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="acb2f2d5-6532-4cad-ad94-16324c057a42" name="변경" comment="2025-05-08-TIL" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +73,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
       </set>
     </attachedChunks>
   </component>
@@ -121,6 +125,7 @@
       <workItem from="1750206178995" duration="5050000" />
       <workItem from="1750292614281" duration="4931000" />
       <workItem from="1750332897518" duration="991000" />
+      <workItem from="1752624429272" duration="1514000" />
     </task>
     <servers />
   </component>
